@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+body {
+    background-color: #f3dfc1;
+}
+
+.btn-date {
+    background-color: #481620;
+    border: none;
+}
+
+.btn-date:hover{
+    background-color: #180609;
+}
+
+.row{
+    
+}
